@@ -122,7 +122,6 @@ tempCodeRunnerFile.py
 
 # Model weights & large data files
 *.pt
-*.pth
 *.h5
 *.pkl
 *.onnx
