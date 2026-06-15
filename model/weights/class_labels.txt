@@ -1,0 +1,35 @@
+Acura TL Sedan 2012
+Aston Martin V8 Vantage Coupe 2012
+Audi 100 Sedan 1994
+Audi R8 Coupe 2012
+Audi RS 4 Convertible 2008
+BMW M3 Coupe 2012
+BMW X5 SUV 2007
+Bentley Continental GT Coupe 2012
+Chevrolet Malibu Hybrid Sedan 2010
+Chevrolet TrailBlazer SS 2009
+Dodge Charger Sedan 2012
+FIAT 500 Abarth 2012
+Ferrari 458 Italia Convertible 2012
+Ford Expedition EL SUV 2009
+Ford Focus Sedan 2007
+Ford Mustang Convertible 2007
+GMC Canyon Extended Cab 2012
+HUMMER H2 SUT Crew Cab 2009
+Honda Accord Sedan 2012
+Honda Odyssey Minivan 2012
+Hyundai Elantra Sedan 2007
+Hyundai Santa Fe SUV 2012
+Infiniti QX56 SUV 2011
+Jeep Grand Cherokee SUV 2012
+Lamborghini Diablo Coupe 2001
+Land Rover Range Rover SUV 2012
+Mazda Tribute SUV 2011
+Mercedes-Benz 300-Class Convertible 1993
+Mercedes-Benz Sprinter Van 2012
+Nissan Juke Hatchback 2012
+Porsche Panamera Sedan 2012
+Rolls-Royce Phantom Drophead Coupe Convertible 2012
+Toyota Camry Sedan 2012
+Volkswagen Golf Hatchback 2012
+Volvo C30 Hatchback 2012
